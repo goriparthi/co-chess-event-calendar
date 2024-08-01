@@ -7,6 +7,7 @@ This project provides an automated solution for generating an iCalendar (iCal) f
 - **Automated Event Extraction**: The script fetches event details including titles, dates, times, locations, and descriptions from the Colorado Chess Association's scholastic tournament page.
 - **iCal File Generation**: An `.ics` file is generated, which can be imported into most calendar applications.
 - **Event Updates**: The script marks events with a last modified timestamp, ensuring that updates are reflected in subscribed calendars.
+- **Customizable Alerts**: Each event includes an alert set for 9 AM the day before, which includes the event's title.
 - **Customizable Details**: The script includes time control, registration details, round times, and comments in the event description.
 
 ## Usage
@@ -34,15 +35,25 @@ This project provides an automated solution for generating an iCalendar (iCal) f
      ```
 
 3. **Running the Script**:
-   - To generate the iCal file, simply run:
+   - You can use the provided `run.sh` script to automatically activate the virtual environment and run the Python script:
      ```bash
-     python script.py
+     ./run.sh
      ```
+
+   - The script performs the following:
+     - Checks for the existence of the virtual environment directory (`venv`) and the script (`script.py`).
+     - Activates the virtual environment.
+     - Runs the `script.py` to generate the iCal file.
+     - Deactivates the virtual environment after execution.
 
    - The generated iCal file, `Colorado_Scholastic_Chess_Events.ics`, will be saved in the project directory.
 
-4. **Subscribing to the Calendar**:
-   - Upload the `.ics` file to a hosting service or GitHub Pages, and use the URL to subscribe to the calendar in your preferred calendar application.
+4. **Hosting and Subscribing to the Calendar**:
+   - The generated `.ics` file is hosted on GitHub Pages. You can subscribe to the calendar using the following options:
+     - **Subscribe via iCal (webcal)**: Click the button below to subscribe directly to the calendar.
+       - [Subscribe via iCal](webcal://goriparthi.github.io/co-chess-event-calendar/Colorado_Scholastic_Chess_Events.ics)
+     - **Download .ics File**: Download the calendar file and manually import it into your calendar application.
+       - [Download .ics File](https://goriparthi.github.io/co-chess-event-calendar/Colorado_Scholastic_Chess_Events.ics)
 
 ## Contributing
 
