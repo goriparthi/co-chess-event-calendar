@@ -49,11 +49,8 @@ This project provides an automated solution for generating an iCalendar (iCal) f
    - The generated iCal file, `Colorado_Scholastic_Chess_Events.ics`, will be saved in the project directory.
 
 4. **Hosting and Subscribing to the Calendar**:
-   - The generated `.ics` file is hosted on GitHub Pages. You can subscribe to the calendar using the following options:
-     - **Subscribe via iCal (webcal)**: Click the link below to subscribe directly to the calendar.
-       - [Subscribe via iCal](webcal://goriparthi.github.io/co-chess-event-calendar/Colorado_Scholastic_Chess_Events.ics)
-     - **Download .ics File**: Download the calendar file and manually import it into your calendar application.
-       - [Download .ics File](https://goriparthi.github.io/co-chess-event-calendar/Colorado_Scholastic_Chess_Events.ics)
+   - The generated `.ics` file is hosted on GitHub Pages. You can access the calendar and subscription options using the following link:
+     - [Colorado Chess Event Calendar on GitHub Pages](https://goriparthi.github.io/co-chess-event-calendar/)
 
 ## Contributing
 
