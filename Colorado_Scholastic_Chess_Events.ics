@@ -4,7 +4,7 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20240921T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20240921T140000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #1
 UID:8533be862afcf1b45eefe352cbf92af7
@@ -13,7 +13,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/40\, 5 second delay\n\nRegistration: Online: $25 if received by 12 p.m. 8/12/2024 Late Fee: $30 if received after\n\nRound Times: 10:30 AM\, 12 noon\, 1:30 PM\; 3 PM ( Approximately)\n\nComments: Register Online Here: https://kingsofchess.com/chess-tournaments \n Player List : https://caissachess.net/live/4631\nHoffman Library\,1298 Peoria St\, Aurora\, CO 80011\nAll players must have current USCF memberships. Players without current USCF memberships will be given 0 point byes until their membership has been renewed.\nCheck in time by 10:10 a.m.\nNo snacks inside of playing area.
 DTEND:20240817T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Hoffman Library\,1298 Peoria St\, Aurora\, CO 80011
 DTSTART:20240817T140000Z
 SUMMARY:♟️ Kings of Chess Tournament - August 17\,2024
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 02/07/2025
 DTEND:20250208T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20250208T150000Z
 SUMMARY:♟️ PALS February 2025 Scholastic Chess Tournament
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20241214T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20241214T150000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #4
 UID:07c3b2c8131c6565a45931a7e4ef18e3
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/40\, 5 second delay\n\nRegistration: Online: $25 if received by 12 p.m. 10/27/2024 Late Fee: $30 if received after\n\nRound Times: 10:30 AM\, 12 noon\, 1:30 PM\; 3 PM ( Approximately)\n\nComments: Register Online Here: https://kingsofchess.com/chess-tournaments \nHoffman Library - Aurora 1298 Peoria St\, Aurora\, CO 80011\nAll players must have current USCF memberships. Players without current USCF memberships will be given 0 point byes until their membership has been renewed.\nCheck in time by 10:10 a.m.\nNo snacks inside of playing area.
 DTEND:20241102T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Hoffman Library - Aurora 1298 Peoria St\, Aurora\, CO 80011
 DTSTART:20241102T140000Z
 SUMMARY:♟️ Kings of Chess Tournament - November 2 \,2024
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20241214T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20241214T150000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #4
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20250517T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20250517T140000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #9
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20240921T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20240921T140000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #1
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20250308T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20250308T150000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #7
 UID:8d643d99e20e3319e47625fff1adb08e
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: 
 DTEND:20250412T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20250412T140000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #8
 UID:d16d5856b84d80490bd0b26e6c01b958
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 10/18/2024
 DTEND:20241019T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20241019T140000Z
 SUMMARY:♟️ PALS October Scholastic Chess Tournament
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20250125T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20250125T150000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #5
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 9/27/2024
 DTEND:20240928T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20240928T140000Z
 SUMMARY:♟️ PALS September Scholastic Chess Tournament
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at\nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20241019T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20241019T140000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #2
 UID:221f433488117e8b2fac70126d943cc5
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20241026T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20241026T140000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #2
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20250315T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20250315T140000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #7
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20250208T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20250208T150000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #6
 UID:7b8c2d787d16bbfc69464ec0d8d14c37
@@ -168,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 11/08/2024
 DTEND:20241109T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20241109T150000Z
 SUMMARY:♟️ PALS November Scholastic Chess Tournament
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20250503T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20250503T140000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #9
 UID:08045346e41c64f89b8df687106b733f
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 5/09/2025
 DTEND:20250510T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20250510T140000Z
 SUMMARY:♟️ PALS May 2025 Scholastic Chess Tournament
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/40\, 5 second delay\n\nRegistration: Online: $25 if received by 12 p.m. 10/1/2024 Late Fee: $30 if received after\n\nRound Times: 10:30 AM\, 12 noon\, 1:30 PM\; 3 PM ( Approximately)\n\nComments: Register Online Here: https://kingsofchess.com/chess-tournaments \nhttps://caissachess.net/live/4690\nHoffman Library\,1298 Peoria St\, Aurora\, CO 80011\nAll players must have current USCF memberships. Players without current USCF memberships will be given 0 point byes until their membership has been renewed.\nCheck in time by 10:10 a.m.\nNo snacks inside of playing area.
 DTEND:20241005T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Hoffman Library\,1298 Peoria St\, Aurora\, CO 80011
 DTSTART:20241005T140000Z
 SUMMARY:♟️ Kings of Chess Tournament - October 5\,2024
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/40\, 5 second delay\n\nRegistration: Online: $25 if received by 12 p.m. 9/9/2024 Late Fee: $30 if received after\n\nRound Times: 10:30 AM\, 12 noon\, 1:30 PM\; 3 PM ( Approximately)\n\nComments: Register Online Here: https://kingsofchess.com/chess-tournaments\nPlayer List : https://caissachess.net/live/4689 \nHoffman Library\,1298 Peoria St\, Aurora\, CO 80011\nAll players must have current USCF memberships. Players without current USCF memberships will be given 0 point byes until their membership has been renewed.\nCheck in time by 10:10 a.m.\nNo snacks inside of playing area.
 DTEND:20240914T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Hoffman Library\,1298 Peoria St\, Aurora\, CO 80011
 DTSTART:20240914T140000Z
 SUMMARY:♟️ Kings of Chess Tournament - September  14\,2024
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20241109T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20241109T150000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #3
 UID:107d29d3db44883aad698d4528e59dfe
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20241116T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20241116T150000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #3
@@ -236,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 12/06/2024
 DTEND:20241207T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20241207T150000Z
 SUMMARY:♟️ PALS December Scholastic Chess Tournament
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: \n\nRegistration: \n\nRound Times: \n\nComments: Information and Registration at \nhttps://coloradomasterchess.com/denver-scholastic-chess-series/
 DTEND:20250111T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 DTSTART:20250111T150000Z
 SUMMARY:♟️ Denver Scholastic Chess Series #5
 UID:38ef3c288d2156eefff4f295cc53c5ec
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20250412T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20250412T140000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #8
@@ -265,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 3/07/2025
 DTEND:20250308T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20250308T150000Z
 SUMMARY:♟️ PALS March 2025 Scholastic Chess Tournament
@@ -275,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: Game in 25 minutes w/ 5 second delay.\n\nRegistration: 8\;00 AM - 8:30 AM (can also late join)\n\nRound Times: 9:00 AM\, 10:00 AM\, 11:00 AM\, 12:30 PM and 1:30 PM\n\nComments: 8:30 AM MANDATORY MEETING\nFAIR PLAY POLICY:\nFair Play: (taken from the chess.com website)\n\nNo chess programs or engines (e.g. Chessmaster\, Fritz\, Komodo\, Houdini\, Stockfish\, Chessbase with any active UCI engine\, etc.) can be used to analyze positions in ongoing games at any time.  \nNo outside assistance OF ANY KIND is permitted.\nFixing game results by arranging games\, playing with multiple accounts\, or losing intentionally is also against the rules.\n\n**SANITATION POLICY**\nAll players are required to wash their hands or use sanitizer before each round. Masks are optional.
 DTEND:20250215T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Jefferson County Fairgrounds: 15200 W 6th Ave Frontage Rd\, Golden\, CO 80401
 DTSTART:20250215T150000Z
 SUMMARY:♟️ 2024-2025 Summit School of Chess Series #6
@@ -285,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 01/10/2025
 DTEND:20250111T230000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Central Christian Church  \r\n3690 E. Cherry Creek South Dr. Denver\, CO 80209
 DTSTART:20250111T150000Z
 SUMMARY:♟️ PALS January 2025 Scholastic Chess Tournament
@@ -295,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Time Control: G/30\n\nRegistration: Check in is from 8:00 - 8:30 a.m. Mandatory players meeting will start at 8:30 a.m.\n\nRound Times: Round 1: 9:00\; Round 2: 10:00\; Round 3: 11:00 followed by a lunch break\; Round 4: 12:30 p.m.\; Round 5: 1:30 p.m.\; Awards Ceremony: 2:30 p.m.\n\nComments: Registrations must be received by Friday\, 4/18/2025
 DTEND:20250419T220000Z
-LAST-MODIFIED:20240801T163843Z
+LAST-MODIFIED:20240811T163400Z
 LOCATION:Challenge to Excellence Charter School\r\n16995 Carlson Rd. Parker\, CO 80134
 DTSTART:20250419T140000Z
 SUMMARY:♟️ PALS April 2025 Scholastic Chess Tournament
